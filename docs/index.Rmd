@@ -1,0 +1,18 @@
+---
+title: Mike's R Utilities
+subtitle:
+author:
+date:
+output: 
+  html_document:
+    css: !expr here::here("css", "styles.css")
+    number_sections: FALSE
+    toc: true
+    toc_float: true
+---
+
+
+# Description
+A central place for me to store useful functions and other R utilities that I create.
+
+
