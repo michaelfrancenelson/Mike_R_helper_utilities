@@ -1,0 +1,41 @@
+---
+title: Mike's R Utilities
+subtitle: ANOVA helper functions
+author: Michael France Nelson
+date:
+output: 
+  html_document:
+    css: !expr here::here("css", "styles.css")
+    number_sections: FALSE
+    toc: true
+    toc_float: true
+---
+
+```{r setup, include=FALSE, echo=FALSE}
+require(here)
+
+source("anova_helper_functions.R")
+
+
+```
+
+
+# Description
+
+A Collection of helper/utility functions to prepare example data and create plots for demonstrating concepts in the Analysis of Variance (ANOVA)
+
+
+
+
+# ANOVA Data Functions
+
+## Random data generator: 1-way ANOVA
+
+```{r}
+
+
+
+```
+
+
+
